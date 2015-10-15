@@ -1,0 +1,5 @@
+/obj
+/bin
+*.pro.user
+!.gitignore
+ui_*.h
